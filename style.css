@@ -1,0 +1,47 @@
+.footer_social {
+    min-height: 70px;
+    max-height: 400px;
+    background-image: url(Imagenes/cafe-footer.jpg);
+    border-top: 1px solid rgba(50, 50, 50, 0.3);
+    width: 100%;
+    position: relative;
+    clear: both;
+    margin-top: 0px;
+    padding-top: 0px;
+    overflow: visible;
+    display:inline-block;
+    background-color:rgb(112, 86, 38);
+    border:1px solid;
+    text-align: center;
+    cursor: pointer;
+    list-style: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Avisos {
+    float: right;
+    text-align:left;
+    cursor: pointer;
+    list-style: none;
+    display: inline;
+}
+
+.LogoMenuFinal {
+    width: auto;
+    height: auto;
+    display: block;
+	margin: auto;
+    max-height: 150px;
+}
+
+.EnlacesExternos {
+    padding: 10px;
+    margin-bottom: -10px;
+    justify-content: center;
+}
+
+.TextoCentrado{
+    text-align:center;
+    display:block;
+}
